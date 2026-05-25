@@ -13,7 +13,7 @@ export default defineConfig({
   ],
   // Set base to "/" for GitHub Pages with a custom domain,
   // or to "/repo-name/" if deploying to username.github.io/repo-name
-  base: "base: "/CrimData/",",
+  base: "/CrimData/",
   build: {
     outDir: "dist",
     sourcemap: false,
